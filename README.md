@@ -8,14 +8,20 @@ If you are bored to usual "lorem ipsum" and you want to impress your custumers o
 
 ## Content Explicit
 
-Pay attention! Content explicit and they could bother someone, and we definitely don't want that.
+Pay attention! Content could bother someone, and we definitely don't want that.
 
 ## Using
 
-Choose paragraph number, select a title and generate your gomorraipsum
+Choose paragraph number, select a title and generate your gomorraipsum.
 
 ## Coding
  Value extract random to an array, the business logic developed in Vanilla JavaScipt.
+ 
+ ## Customization
+
+```
+var frasi = ['your array of string here']
+```
 
 ## Author
 
