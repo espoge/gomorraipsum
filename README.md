@@ -15,7 +15,7 @@ Pay attention! Content could bother someone, and we definitely don't want that.
 Choose paragraph number, select a title and generate your gomorraipsum.
 
 ## Coding
- Value extract random to an array, the business logic developed in Vanilla JavaScipt.
+ Value extract random to an array, the business logic developed in Vanilla JavaScript.
  
  ## Customization
 
