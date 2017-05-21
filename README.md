@@ -23,6 +23,9 @@ Choose paragraph number, select a title and generate your gomorraipsum.
 var frasi = ['your array of string here']
 ```
 
+```
+var titoli = ['your array of string here']
+```
 ## Author
 
 * **Gennaro Esposito** 
